@@ -1,0 +1,4 @@
+git fetch --all --tags
+git log --tags --simplify-by-decoration --pretty="format:%ai %d"
+git tag -a v0.9.530 -m "ptax url correta"
+git push --tags

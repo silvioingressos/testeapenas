@@ -1,3 +1,0 @@
-total 1
--rw-r--r-- 1 saczucsi 1049089 28 Jan 19 09:08 README.md
--rw-r--r-- 1 saczucsi 1049089  0 Jan 19 09:08 lixo.txt
